@@ -117,7 +117,7 @@
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "cc253e89-d979-43a5-a7e0-b3532f66a73c")
+			(uuid "d9b42b42-2fc6-47ca-883e-15d8e18f981f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -128,7 +128,7 @@
 		(property "Value" "COM0"
 			(at 0 -4.7 0)
 			(layer "F.SilkS")
-			(uuid "b57ba166-bcb0-45f3-8a21-30c1fa087e66")
+			(uuid "100c7345-e945-4808-94b9-4ff955596b95")
 			(effects
 				(font
 					(size 1 1)
@@ -140,7 +140,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "33341058-5e89-4234-88ca-9f766ff0f037")
+			(uuid "dcfe5478-a702-4b01-ae31-3819d981c886")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -152,7 +152,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "10496c86-4262-4e02-ba32-7d0d02d7bcbc")
+			(uuid "aae1d6af-0a1c-48f7-b9c0-f7a20c8a48f2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -164,7 +164,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "855c84f0-f90e-4fdd-b7e2-9a522aab817b")
+			(uuid "8ff7e330-c81e-47bc-9b85-1094d982c831")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -199,7 +199,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "655625bc-1ed5-4585-931d-4a666d866b7c")
+			(uuid "765b090b-9281-427a-a5d3-93ce3bd02c58")
 		)
 		(fp_circle
 			(center 0 0)
@@ -210,7 +210,7 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "ca6dbcc7-6a2b-4898-bf38-466c016ca4d5")
+			(uuid "16585f8a-1c3d-4717-9c77-d51755148103")
 		)
 		(pad "1" thru_hole circle
 			(at 0 0)
@@ -221,7 +221,18 @@
 			(net 7 "/ECOMMON")
 			(pinfunction "1")
 			(pintype "input")
-			(uuid "9895852a-b885-4c06-85b4-7a8015da0fdc")
+			(uuid "9f43a033-305d-4091-84a1-0d95285212ff")
+		)
+		(model "${MYLIB}/MyLib.3dshapes/MiniPyroClipRed.wrl"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
 		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric"
@@ -873,7 +884,7 @@
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "9477c8e1-59b1-41c9-bdf5-3138dfc0ae5f")
+			(uuid "f5aac7ae-2cbe-4239-8136-9db18d8e7fda")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -884,7 +895,7 @@
 		(property "Value" "CUE1"
 			(at 0 -4.7 0)
 			(layer "F.SilkS")
-			(uuid "39849803-63b8-41be-bfea-d7ecef7ac0e2")
+			(uuid "f6d97108-5bd5-4d92-8892-882f8c16f92b")
 			(effects
 				(font
 					(size 1 1)
@@ -896,7 +907,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b5b8560e-b1a4-458e-a417-f3429e11bca1")
+			(uuid "4e71d564-1f39-45da-92a1-387da7553eb1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -908,7 +919,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "200a4f5d-4230-436d-b4b7-c703d4acb063")
+			(uuid "189b1ff1-96c5-48d6-a1a1-2d88e58edc5a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -920,7 +931,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bc0ea58d-9975-4b62-b439-f071a225198b")
+			(uuid "9ade3969-d80d-4949-8755-c73ee6028034")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -955,7 +966,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "b5108ac5-e23f-4ec3-8c8f-935764d8a09c")
+			(uuid "8f9d59c8-b921-42e6-9986-ed56de561862")
 		)
 		(fp_circle
 			(center 0 0)
@@ -966,7 +977,7 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "35c614fb-c143-4cd1-b1b5-d7fb4835b07a")
+			(uuid "16424969-b916-4812-949a-884f0c943086")
 		)
 		(pad "1" thru_hole circle
 			(at 0 0)
@@ -977,7 +988,18 @@
 			(net 14 "Net-(Q6-D)")
 			(pinfunction "1")
 			(pintype "input")
-			(uuid "839a3e1b-24ae-4776-a97a-ffb7eabe4b7c")
+			(uuid "3e87462f-bdea-4c98-8a96-5a04750c2257")
+		)
+		(model "${MYLIB}/MyLib.3dshapes/MiniPyroClipBlack.wrl"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
 		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric"
@@ -3802,7 +3824,7 @@
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "9d0003f9-8a70-4a61-8704-e49b15da20c9")
+			(uuid "e710082f-83f2-4294-9cf8-1077eba6b7d3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3813,7 +3835,7 @@
 		(property "Value" "COM1"
 			(at 0 -4.7 0)
 			(layer "F.SilkS")
-			(uuid "f7fbff83-20fb-499a-a30e-85eb7ca704f3")
+			(uuid "26b5e296-a6d6-4a02-a6f7-7d4d47d4d5b4")
 			(effects
 				(font
 					(size 1 1)
@@ -3825,7 +3847,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "89f63d61-0d97-4df8-9797-f3a7f93b85df")
+			(uuid "0b6eb55f-d65f-4de7-badc-a360d5122aa0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3837,7 +3859,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "31cc3a58-f8d0-4e4f-9297-fdf935933911")
+			(uuid "3b4299a7-ca7d-4457-9be8-950684286734")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3849,7 +3871,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9c61e427-9350-4dc8-a4c7-88048eb9effd")
+			(uuid "88e9d8f7-70c4-4561-ab79-dc3045ae65dd")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3884,7 +3906,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "b407bae9-dd34-4223-a777-fa3a4eaf5004")
+			(uuid "0fdbc242-877a-4247-912a-2df111487afd")
 		)
 		(fp_circle
 			(center 0 0)
@@ -3895,7 +3917,7 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "38bd11d8-2f5c-4bd7-8ddc-c1ae5d50adce")
+			(uuid "ed9ca371-56c5-4e30-9918-7d0e9d0fa69f")
 		)
 		(pad "1" thru_hole circle
 			(at 0 0)
@@ -3906,7 +3928,18 @@
 			(net 7 "/ECOMMON")
 			(pinfunction "1")
 			(pintype "input")
-			(uuid "5eb84ee2-4c2e-4f2f-a900-2d3beff22fc1")
+			(uuid "ba0812ea-5fb0-4e1c-b904-1f9ec34ac296")
+		)
+		(model "${MYLIB}/MyLib.3dshapes/MiniPyroClipRed.wrl"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
 		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric"
@@ -5478,7 +5511,7 @@
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "d305fe85-b07e-4a20-975e-a15dd2df97ab")
+			(uuid "f90092ca-1482-451e-b4bd-71c5b5b9680a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5489,7 +5522,7 @@
 		(property "Value" "CUE0"
 			(at 0 -4.7 0)
 			(layer "F.SilkS")
-			(uuid "c18e2f45-a07b-4ffb-bb08-a956ea290afb")
+			(uuid "58a4e7ae-31f2-4ee0-a230-753caf03a4de")
 			(effects
 				(font
 					(size 1 1)
@@ -5501,7 +5534,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3d5213d0-f202-41a5-a92f-53de35f9fd79")
+			(uuid "15c8d420-23ff-4fe0-9463-881693eea859")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5513,7 +5546,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8ecc1a8a-c87a-465d-b1b9-8f73d276dc77")
+			(uuid "c0ce9b4a-12ef-43bf-8457-1bb31f02821e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5525,7 +5558,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7ccc51a3-001b-491d-bd2b-88d34a378b36")
+			(uuid "ddfba089-cfa1-4565-8425-a57b21022d45")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5560,7 +5593,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "f33b9384-e17b-44b7-9264-3813b100253a")
+			(uuid "a8f11b49-abc5-42e9-9e58-17e0289601f7")
 		)
 		(fp_circle
 			(center 0 0)
@@ -5571,7 +5604,7 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "eefb1004-88ae-4e36-8718-7126bc7651bb")
+			(uuid "d9459dc3-116e-42ac-9065-01b06292e029")
 		)
 		(pad "1" thru_hole circle
 			(at 0 0)
@@ -5582,7 +5615,18 @@
 			(net 13 "Net-(Q5-D)")
 			(pinfunction "1")
 			(pintype "input")
-			(uuid "7346c196-e180-4fb2-8987-920f7f5a603b")
+			(uuid "b5619276-8561-4408-890b-33b0edccf5e1")
+		)
+		(model "${MYLIB}/MyLib.3dshapes/MiniPyroClipBlack.wrl"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
 		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric"
